@@ -25,7 +25,7 @@ public class Lab3Controller {
 
     @FXML
     void textInput(KeyEvent event) {
-    	label1.setText(textfield1.getText()+" realtime!");
+    	label1.setText(textfield1.getText()+" xixixi!");
     }
 
 }
